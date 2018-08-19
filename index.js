@@ -12,7 +12,11 @@ function theBeatlesPlay(musArray, insArray ){
 
 function johnLennonFacts(facts){
   var i = 0;
-  while (i < facts.length()){
-    
+  var myArray = [];
+  while (i < facts.length){
+    var newFact = facts[i] + "!!!";
+    myArray[i] = newFact;
+    i++;
   }
+  return myArray;
 }
