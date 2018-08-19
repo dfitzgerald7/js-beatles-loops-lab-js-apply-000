@@ -10,4 +10,7 @@ function theBeatlesPlay(musArray, insArray ){
   return myArray;
 }
 
-function johnLennonFacts()
+function johnLennonFacts(facts){
+  var i = 0;
+  while ()
+}
