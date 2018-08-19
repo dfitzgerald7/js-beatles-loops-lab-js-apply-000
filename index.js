@@ -32,4 +32,7 @@ function iLoveTheBeatles(number){
     }
     return myArray;
   }
+  else{
+    return [ "I love the Beatles!" ];
+  }
 }
