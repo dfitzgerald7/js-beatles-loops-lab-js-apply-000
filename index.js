@@ -1,4 +1,4 @@
 // add solution here
-function theBeatlesPlay(musArray [], insArray [] ){
+function theBeatlesPlay(musArray, insArray ){
   
 }
