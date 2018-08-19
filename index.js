@@ -20,3 +20,4 @@ function johnLennonFacts(facts){
   }
   return myArray;
 }
+
