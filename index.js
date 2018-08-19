@@ -26,7 +26,7 @@ function iLoveTheBeatles(number){
   if (number < 15){
     var myArray = [];
     var i = 0;
-    while(i < number){
+    while(i <= number){
       myArray[i] = "I love the Beatles!";
       i++;
     }
