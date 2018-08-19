@@ -1,7 +1,7 @@
 // add solution here
 function theBeatlesPlay(musArray, insArray ){
   var myArray = [];
-  var i; 
+  var i = 0;
   for (i=0; i < musArray; i++){
     var musician = musArray[i];
     var instrument = insArray[i];
