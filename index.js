@@ -12,5 +12,5 @@ function theBeatlesPlay(musArray, insArray ){
 
 function johnLennonFacts(facts){
   var i = 0;
-  while ()
+  while (facts[i] =! "")
 }
